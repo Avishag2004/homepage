@@ -1,0 +1,63 @@
+h1 {
+    font-family: Luminari, fantasy;
+    -webkit-text-stroke: #e5aceb;
+    font-size: 1000%;
+    text-align: center;
+    float: bottom;
+    color: #ffffff;
+}
+h2{
+    font-family: cursive;
+    text-align: center;
+    font-size: 200%;
+        color: #fafafa;
+        position: relative;
+        bottom: 120px;
+
+}
+body {
+    background: linear-gradient(to bottom, #52074b, #534055);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+button {
+    text-size-adjust: 150%;
+    width: 700px;
+    height: 100px;
+    border-radius: 50px;
+    position: relative;
+    left: 31.5%;
+    font-size: 40px;
+    color: #49133c;
+    box-shadow: #b66ebd 0px 0px 10px;
+    font-family: Luminari, fantasy;
+    padding: 10px;
+    box-shadow: #793a77 0px 10px 20px;
+    bottom: 120px;
+    position: relative;
+    background: linear-gradient(to left, #e4a2dd, #ffffff);
+    transition: transform 0.3s ease;
+}
+button:hover {
+transform: translateY(-10px)
+scale(1.05);
+}
+
+h3{
+    font-family: Luminari, fantasy;
+    text-align: center;
+    font-size: 200%;
+    color: #fafafa;
+    position: relative;
+    bottom: -100px;
+    font-size: 400%;
+    background: linear-gradient(to right, #e4a2dd, #ffffff);
+}
+h4{
+    font-family: cursive;
+    text-align: center;
+    font-size: 200%;
+    color: #fafafa;
+    position: relative;
+    bottom: -50px;
+}
